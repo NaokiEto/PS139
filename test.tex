@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\begin{document}
+
+\section*{Attempt at finding the p-value}
+
+Benford's Law is expecting a mean of 3.71465. So, we can have:
+
+$H_{0}: m = 3.7146$
+
+\vspace{2 mm}
+
+$H_{1}: m \leq 3.7146$
+
+\vspace{2 mm}
+\noindent
+The mean of data points' first digits is 2.9758.
+The population standard devation is 1.5266.
+The number of data points is 19827.
+
+\vspace{2 mm}
+\noindent
+Computing the z score:
+
+\vspace{2 mm}
+$z = \frac{2.9758 - 3.71465}{\frac{1.5266}{\sqrt{198275}}} = -68.146$
+
+\vspace{2 mm}
+\noindent
+So, the p-value is about $0.00 \le 0.05$, which seems to indicate that fraud has occurred.
+
+\end{document}

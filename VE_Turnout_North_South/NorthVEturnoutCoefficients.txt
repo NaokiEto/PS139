@@ -1,0 +1,40 @@
+Abed Bwanika
+slope: 0.00573031850459
+y-intercept: 0.00143104528932
+r^2: 0.0153902780345
+
+Besigye Kifefe Kizza
+slope: 0.175805074123
+y-intercept: 0.0509815383202
+r^2: 0.0495446312791
+
+Beti Olive Kamya Namisango
+slope: 0.00143157547953
+y-intercept: 0.00166537488443
+r^2: 0.00164307792876
+
+Bidandissali Jaberi
+slope: 0.000339293122598
+y-intercept: 0.000657339846512
+r^2: 0.000321755589812
+
+Mao Norbert
+slope: -0.0767841923431
+y-intercept: 0.0625780552305
+r^2: 0.0442837117179
+
+Olara Otunnu
+slope: 0.00847852578088
+y-intercept: 0.0148704017838
+r^2: 0.000634969209802
+
+Samuel Lubega Mukaaku Walter
+slope: 0.00635624738877
+y-intercept: -0.000155463242434
+r^2: 0.00318226387055
+
+Yoweri Museveni Kaguta
+slope: 0.840030489321
+y-intercept: -0.138316068466
+r^2: 0.463025028933
+

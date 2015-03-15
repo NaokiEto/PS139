@@ -1,0 +1,280 @@
+Abed Bwanika
+slope: 0.00573031850459
+y-intercept: 0.00143104528932
+r^2: 0.0153902780345
+
+Besigye Kifefe Kizza
+slope: 0.175805074123
+y-intercept: 0.0509815383202
+r^2: 0.0495446312791
+
+Beti Olive Kamya Namisango
+slope: 0.00143157547953
+y-intercept: 0.00166537488443
+r^2: 0.00164307792876
+
+Bidandissali Jaberi
+slope: 0.000339293122598
+y-intercept: 0.000657339846512
+r^2: 0.000321755589812
+
+Mao Norbert
+slope: -0.0767841923431
+y-intercept: 0.0625780552305
+r^2: 0.0442837117179
+
+Olara Otunnu
+slope: 0.00847852578088
+y-intercept: 0.0148704017838
+r^2: 0.000634969209802
+
+Samuel Lubega Mukaaku Walter
+slope: 0.00635624738877
+y-intercept: -0.000155463242434
+r^2: 0.00318226387055
+
+Yoweri Museveni Kaguta
+slope: 0.840030489321
+y-intercept: -0.138316068466
+r^2: 0.463025028933
+
+Abed Bwanika
+slope: -0.00262246519916
+y-intercept: 0.00449635854057
+r^2: 0.00684109015279
+
+Besigye Kifefe Kizza
+slope: -0.130121585969
+y-intercept: 0.215328006587
+r^2: 0.0440619551969
+
+Beti Olive Kamya Namisango
+slope: -0.00951991690709
+y-intercept: 0.0103706286566
+r^2: 0.0390370626468
+
+Bidandissali Jaberi
+slope: 0.000382425718139
+y-intercept: 0.000389895450358
+r^2: 0.000680285346651
+
+Mao Norbert
+slope: -0.0214949687279
+y-intercept: 0.0196977573325
+r^2: 0.066237624208
+
+Olara Otunnu
+slope: -0.00366908346521
+y-intercept: 0.00335702011667
+r^2: 0.0128306766566
+
+Samuel Lubega Mukaaku Walter
+slope: 0.00260937419908
+y-intercept: -9.47533625018e-05
+r^2: 0.000861435107824
+
+Yoweri Museveni Kaguta
+slope: 1.13060885921
+y-intercept: -0.255459213556
+r^2: 0.733760246357
+
+Abed Bwanika
+slope: -0.00262246519916
+y-intercept: 0.00449635854057
+r^2: 0.00684109015279
+
+Besigye Kifefe Kizza
+slope: -0.130121585969
+y-intercept: 0.215328006587
+r^2: 0.0440619551969
+
+Beti Olive Kamya Namisango
+slope: -0.00951991690709
+y-intercept: 0.0103706286566
+r^2: 0.0390370626468
+
+Bidandissali Jaberi
+slope: 0.000382425718139
+y-intercept: 0.000389895450358
+r^2: 0.000680285346651
+
+Mao Norbert
+slope: -0.0214949687279
+y-intercept: 0.0196977573325
+r^2: 0.066237624208
+
+Olara Otunnu
+slope: -0.00366908346521
+y-intercept: 0.00335702011667
+r^2: 0.0128306766566
+
+Samuel Lubega Mukaaku Walter
+slope: 0.00260937419908
+y-intercept: -9.47533625018e-05
+r^2: 0.000861435107824
+
+Yoweri Museveni Kaguta
+slope: 1.13060885921
+y-intercept: -0.255459213556
+r^2: 0.733760246357
+
+Abed Bwanika
+slope: 0.00573031850459
+y-intercept: 0.00143104528932
+r^2: 0.0153902780345
+
+Besigye Kifefe Kizza
+slope: 0.175805074123
+y-intercept: 0.0509815383202
+r^2: 0.0495446312791
+
+Beti Olive Kamya Namisango
+slope: 0.00143157547953
+y-intercept: 0.00166537488443
+r^2: 0.00164307792876
+
+Bidandissali Jaberi
+slope: 0.000339293122598
+y-intercept: 0.000657339846512
+r^2: 0.000321755589812
+
+Mao Norbert
+slope: -0.0767841923431
+y-intercept: 0.0625780552305
+r^2: 0.0442837117179
+
+Olara Otunnu
+slope: 0.00847852578088
+y-intercept: 0.0148704017838
+r^2: 0.000634969209802
+
+Samuel Lubega Mukaaku Walter
+slope: 0.00635624738877
+y-intercept: -0.000155463242434
+r^2: 0.00318226387055
+
+Yoweri Museveni Kaguta
+slope: 0.840030489321
+y-intercept: -0.138316068466
+r^2: 0.463025028933
+
+Abed Bwanika
+slope: 0.0229439632243
+y-intercept: 0.00318263082522
+r^2: 0.0133748478506
+
+Besigye Kifefe Kizza
+slope: -0.0883005717419
+y-intercept: 0.148596430577
+r^2: 0.000624719960322
+
+Beti Olive Kamya Namisango
+slope: -0.00869021107469
+y-intercept: 0.003863808368
+r^2: 0.00153109456972
+
+Bidandissali Jaberi
+slope: 0.00431059540752
+y-intercept: 0.000601923172813
+r^2: 0.00273435999894
+
+Mao Norbert
+slope: -0.00972079300546
+y-intercept: 0.0102875338651
+r^2: 6.68024964651e-05
+
+Olara Otunnu
+slope: 0.104475610471
+y-intercept: 0.00689251228926
+r^2: 0.00859803186176
+
+Samuel Lubega Mukaaku Walter
+slope: 0.0238701694172
+y-intercept: 0.00188776760034
+r^2: 0.00220064889382
+
+Yoweri Museveni Kaguta
+slope: -0.140810328769
+y-intercept: 0.418596581882
+r^2: 0.000453260298921
+
+Abed Bwanika
+slope: 0.0229439632243
+y-intercept: 0.00318263082522
+r^2: 0.0133748478506
+
+Besigye Kifefe Kizza
+slope: -0.0883005717419
+y-intercept: 0.148596430577
+r^2: 0.000624719960322
+
+Beti Olive Kamya Namisango
+slope: -0.00869021107469
+y-intercept: 0.003863808368
+r^2: 0.00153109456972
+
+Bidandissali Jaberi
+slope: 0.00431059540752
+y-intercept: 0.000601923172813
+r^2: 0.00273435999894
+
+Mao Norbert
+slope: -0.00972079300546
+y-intercept: 0.0102875338651
+r^2: 6.68024964651e-05
+
+Olara Otunnu
+slope: 0.104475610471
+y-intercept: 0.00689251228926
+r^2: 0.00859803186176
+
+Samuel Lubega Mukaaku Walter
+slope: 0.0238701694172
+y-intercept: 0.00188776760034
+r^2: 0.00220064889382
+
+Yoweri Museveni Kaguta
+slope: -0.140810328769
+y-intercept: 0.418596581882
+r^2: 0.000453260298921
+
+Abed Bwanika
+slope: 0.0229439632243
+y-intercept: 0.00318263082522
+r^2: 0.0133748478506
+
+Besigye Kifefe Kizza
+slope: -0.0883005717419
+y-intercept: 0.148596430577
+r^2: 0.000624719960322
+
+Beti Olive Kamya Namisango
+slope: -0.00869021107469
+y-intercept: 0.003863808368
+r^2: 0.00153109456972
+
+Bidandissali Jaberi
+slope: 0.00431059540752
+y-intercept: 0.000601923172813
+r^2: 0.00273435999894
+
+Mao Norbert
+slope: -0.00972079300546
+y-intercept: 0.0102875338651
+r^2: 6.68024964651e-05
+
+Olara Otunnu
+slope: 0.104475610471
+y-intercept: 0.00689251228926
+r^2: 0.00859803186176
+
+Samuel Lubega Mukaaku Walter
+slope: 0.0238701694172
+y-intercept: 0.00188776760034
+r^2: 0.00220064889382
+
+Yoweri Museveni Kaguta
+slope: -0.140810328769
+y-intercept: 0.418596581882
+r^2: 0.000453260298921
+
