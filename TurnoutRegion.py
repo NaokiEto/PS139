@@ -63,7 +63,8 @@ with open('2011_Pres_Pstn.csv', 'rb') as f:
     for row in reader:
         if row[10] != '' and row[19] != 'VALID':
 	    #print row[10], row[19]
-	    if row[column] != '' and row[column] != '?' and row[19] != '':
+	    if row[column] != '' and row[column] != '?' and row[19] != ''\
+	       and row[1] in south_region:
 	        #print row
 	        #print "district: ", row[0]
 	        #valid = int(row[19][:1])
@@ -135,7 +136,6 @@ print "The maximum is: ", maximum
 print "The minimum is: ", minimum
 
 
-integerx = range(1, 10)
 
 total = float(sum(Frequency))
 normalized_freq = np.asarray(Frequency) / total
@@ -155,9 +155,9 @@ pylab.plot(100.0 * xcoord, func(xcoord, popt[0], popt[1], popt[2]) * total, '-r'
 
 pylab.xlabel('Turnout')
 pylab.ylabel('Frequency')
-pylab.title('Turnout by Polling Station')
+pylab.title('Turnout by Polling Station South of the Nile River')
 
 #pylab.show()
-pylab.savefig('OverallTurnout.png')
+pylab.savefig('SouthTurnout.png')
 
 
