@@ -37,11 +37,28 @@ average = float(totalpercentages)/float(numrows)
 
 print "The average is: ", average
 
-poisson = np.arange(0, 100, 0.01)
+avg_prob = sum(probabilities)/len(probabilities)
+
+print "Average probability is: ", avg_prob
+
+ss_tot = 0.0
+
+for i in range(len(percentages)):
+    ss_tot += (probabilities[i] - avg_prob) ** 2
+
+poisson = [float(average) ** int(x) / float(math.factorial(int(x))) * float(math.exp(-1.0 * average)) for x in percentages]
+
+sum_res = 0.0
+
+for i in range(len(percentages)):
+    sum_res += (probabilities[i] - poisson[i])**2
+
+print "The sum_res is: ", sum_res
+
+print "The r^2 is: ", 1.0 - sum_res/ss_tot
 
 pylab.plot(percentages, probabilities, '-r')
-pylab.plot(percentages, [float(average) ** int(x) / float(math.factorial(int(x))) * float(math.exp(-1.0 * average)) for x in percentages], '-b')
-pylab.legend()
+pylab.plot(percentages, poisson, '-b')
 
 pylab.ylabel('Probability')
 pylab.xlabel('K')

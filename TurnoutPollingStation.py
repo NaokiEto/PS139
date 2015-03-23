@@ -56,6 +56,8 @@ Frequency = [0] * 101
 nocount = 0
 minimum = 200
 maximum = 200
+excluded = 0
+included = 0
 
 rownumber = 0
 with open('2011_Pres_Pstn.csv', 'rb') as f:
@@ -126,6 +128,8 @@ with open('2011_Pres_Pstn.csv', 'rb') as f:
 	            turnout = int(round((float(valid) + float(invalid))/float(registered) * 100.0))
 	            Frequency[turnout] += 1
 	            rownumber += 1
+                else:
+                    excluded += 1
 	        #print valid
 	        #counter[valid-1] += 1
 	    else:
@@ -134,6 +138,8 @@ with open('2011_Pres_Pstn.csv', 'rb') as f:
 print "The maximum is: ", maximum
 print "The minimum is: ", minimum
 
+print "The total number of included polling stations is: ", rownumber
+print "The number of excluded polling stations is: ", excluded
 
 integerx = range(1, 10)
 
